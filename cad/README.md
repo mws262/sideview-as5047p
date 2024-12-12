@@ -5,10 +5,10 @@ STEP files for the Sideview AS5047P breakout board and a few example mounts. The
 ![Full board render](../img/as5047_breakout_render.png)
 Full board with components.
 
-## evm_mb_adapter.step
+## [evm_mb_adapter.step](evm_mb_adapter.STEP)
 ![evm_mb_adapter render](../img/evm_mb_adapter_render.png)
 This is an adapter for making the Sideview board fit where AMS's AS5X47P_TS_EVM_MB would. It's a little thicker in total, but the holes should line up.
 
-## mot_bracket_example.step
+## [mot_bracket_example.step](mot_bracket_example.STEP)
 ![Example bracket render](../img/mot_bracket_example_render.png)
 Another example mounting bracket. It fits [TODO] motor, but should be easy to adapt to other applications.
